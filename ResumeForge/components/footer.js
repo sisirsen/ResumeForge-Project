@@ -6,7 +6,7 @@ export function footer() {
 
         <!-- Brand -->
         <div>
-            <h2 class="text-2xl font-bold mb-4">Resume Forge AI</h2>
+            <h2 class="text-2xl font-bold mb-4">ResumeForge</h2>
             <p class="text-gray-400 text-sm hover:text-white leading-relaxed">
                 Build professional resumes in minutes using smart AI-powered templates.
                 Designed for students, developers, and professionals.
@@ -50,7 +50,7 @@ export function footer() {
     <!-- Bottom Section -->
     <div class="border-t">
         <div class="max-w-7xl mx-auto px-6 py-6 flex flex-col md:flex-row justify-between items-center text-sm text-gray-400">
-            <p>© 2026 Resume Forge AI. All rights reserved.</p>
+            <p>© 2026 ResumeForge. All rights reserved.</p>
             <div class="flex space-x-6 mt-4 md:mt-0">
                 <a href="#" class="hover:text-white">LinkedIn</a>
                 <a href="#" class="hover:text-white">Twitter</a>
